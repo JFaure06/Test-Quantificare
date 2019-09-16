@@ -9,3 +9,4 @@ je créer une fonction avec le tarif la date d'achat le taux devise
 je multiplie le tarif par 1
 sinon
 je multiplis le tarif par le taux de conversion de la devise correspondant a la date_proche  
+je retourn le tarif modifier

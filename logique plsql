@@ -1,0 +1,11 @@
+je créer une fonction avec date d'achat et de conversion en parametre
+   je fais une boucle sur toutes mes dates de conversions 
+   je calcule la difference de date d'achat - date de coversion
+   je classe les résultats de la plus petite valeur a la plus grande
+   je retourne date_proche en gardant la plus petite valeur
+
+je créer une fonction avec le tarif la date d'achat le taux devise
+ si mon tarif est en EUR 
+je multiplie le tarif par 1
+sinon
+je multiplis le tarif par le taux de conversion de la devise correspondant a la date_proche  
